@@ -24,7 +24,7 @@ export class Profile extends React.Component{
             <p className="text">最近は機械学習に興味があり、そのアルゴリズムなどについて勉強しています。</p>
             <p className="text">まだ詳しく勉強していませんが今後はロボットなどのよりハードウェアに近い分野の勉強もしたいと思っています。</p>
     
-            <h1>よく使う技術&ソフトウェア</h1>
+            <h1>使用経験のある技術&ソフトウェア</h1>
             <p>
             <img src={python} className="item-icon" />
             <img src={django} className="item-icon" />
