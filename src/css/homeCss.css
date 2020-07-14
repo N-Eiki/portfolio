@@ -1,0 +1,23 @@
+.navi-icon {
+ height: 70px;
+}
+
+/* a {
+    margin-left: 10px;
+    text-decoration: none;
+    color: white; */
+/* } */
+
+.navi> a {
+    padding: 10px;
+    background-color: gray;
+    opacity: 0.4;
+    margin-left: 10px;
+    text-decoration: none;
+    color: white;
+
+}
+
+.navi > a:hover {
+    opacity:0.9;
+}

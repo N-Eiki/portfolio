@@ -1,0 +1,44 @@
+.header-image {
+  width: 100%;
+  height: 100%;
+}
+
+.my-name {
+  position: absolute;
+  left :30%;
+
+  color: white;
+  font-size: 100px;
+
+
+
+  text-shadow    : 
+  2px  2px 1px black,
+ -2px  2px 1px black,
+  2px -2px 1px black,
+ -2px -2px 1px black,
+  2px  0px 1px black,
+  0px  2px 1px black,
+ -2px  0px 1px black,
+  0px -2px 1px black;
+  display: inline-block;
+  margin: 25% 0;
+  border: 4px double rgba(255, 255, 255, 0.25);
+  border-width: 4px 0;
+    /* color: #dddddd; */
+}
+
+.navi {
+  position: absolute;
+  left: 30%;
+  top: 70%;
+  color:white;
+
+}
+
+
+.navi > a {
+  font-size: 20px;
+  padding:10px;
+  margin: 10x;
+}
