@@ -1,3 +1,6 @@
+githubpagesにより以下のurlで確認可
+https://n-eiki.github.io/portfolio/
+
 ### `yarn start`
 
 Runs the app in the development mode.<br />
