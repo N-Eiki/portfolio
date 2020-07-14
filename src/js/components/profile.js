@@ -25,6 +25,7 @@ export class Profile extends React.Component{
             <img src={github} className="item-icon" />
             <img src={vscode} className="item-icon" />
             <img src={react} className="item-icon" />
+            <p>etc...</p>
           </div>
             )
     }
