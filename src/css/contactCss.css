@@ -1,0 +1,27 @@
+#contact {
+    background-color: black;
+}
+
+.mailicon {
+    height: 100px;
+}
+
+#contact > h1{
+    padding-top: 20px;
+    color: white;
+}
+
+.mailaddress-area>p {
+    color: white;
+}
+
+.mailaddress-area {
+    padding:3%;
+    margin: 0 30%;
+    background-color: gray;
+    font-size: 40px;
+}
+
+.github-link:hover {
+    opacity: 0.3;
+}

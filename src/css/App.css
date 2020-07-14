@@ -42,3 +42,12 @@
   padding:10px;
   margin: 10x;
 }
+
+
+h1,h2{
+  text-align: center;
+}
+
+.text {
+  margin-left: 25%;
+}
