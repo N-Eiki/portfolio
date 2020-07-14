@@ -8,7 +8,9 @@ import sklearn from "../../img/sklearn.png"
 import tf from "../../img/tf.png"
 import html5 from "../../img/html.png"
 import react from "../../img/react.png"
+import anaconda from "../../img/anaconda.jpeg"
 import css from "../../css/profileCss.css"
+
 
 export class Profile extends React.Component{
     render (){
@@ -26,6 +28,7 @@ export class Profile extends React.Component{
             <p>
             <img src={python} className="item-icon" />
             <img src={django} className="item-icon" />
+            <img src={anaconda} className="item-icon" />
             <img src={html5} className="item-icon" />
             <img src={sklearn} className="item-icon" />
             <img src={tf} className="item-icon" />
